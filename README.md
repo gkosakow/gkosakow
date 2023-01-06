@@ -3,8 +3,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Cybersecurity and Computer Information Assurance at University of Michigan-Dearborn.
 - 💼 &nbsp; Working as an IT Analyst at Ascent Cloud.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence, especially through AWS.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Security, especially through AWS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
