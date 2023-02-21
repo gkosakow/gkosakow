@@ -1,4 +1,4 @@
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>👋 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Information Science + Cybersecurity and Computer Information Assurance at University of Michigan-Dearborn.
 - 💼 &nbsp; Working as an IT Analyst at Ascent Cloud.
