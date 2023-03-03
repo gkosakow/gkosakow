@@ -32,6 +32,6 @@
 <br/>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkosakow&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkosakow&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkosakow&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkosakow&theme=radical&layout=compact" />
 </div>
