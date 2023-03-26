@@ -42,6 +42,7 @@
   ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
   ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 <br/>
+
   ![](https://komarev.com/ghpvc/?username=gkosakow)
 
 <div>
