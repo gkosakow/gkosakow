@@ -43,9 +43,9 @@
   ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 <br/>
 
-  ![](https://komarev.com/ghpvc/?username=gkosakow)
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkosakow&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkosakow&theme=radical&layout=compact" />
 </div>
+
+  ![](https://komarev.com/ghpvc/?username=gkosakow)
