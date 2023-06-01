@@ -1,6 +1,7 @@
 <h3>👋 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Information Science at University of Michigan-Dearborn.
+- 📜 &nbsp; Certified AWS Cloud Practitioner.
 - 💼 &nbsp; Working as an IT Analyst at Ascent Cloud.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Security, especially through AWS.
 
