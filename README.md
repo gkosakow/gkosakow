@@ -2,7 +2,7 @@
 
 - 🎓 &nbsp; Studying Computer Information Science at University of Michigan-Dearborn.
 - 📜 &nbsp; Certified AWS Cloud Practitioner.
-- 💼 &nbsp; Working as an IT Analyst at Ascent Cloud.
+- 💼 &nbsp; Working as an DevOps Engineer at Ascent Cloud.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Security, especially through AWS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
