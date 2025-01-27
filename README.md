@@ -1,9 +1,9 @@
 <h3>👋 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Information Science at University of Michigan-Dearborn.
+- 🎓 &nbsp; BS - Computer Information Science / Software Development from the University of Michigan-Dearborn.
 - 📜 &nbsp; Certified AWS Cloud Practitioner.
-- 💼 &nbsp; Working as a DevOps Engineer at Ascent Cloud.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Security, especially through AWS.
+- 💼 &nbsp; Full-stack Software Developer at Ascent Cloud.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, and Security.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
